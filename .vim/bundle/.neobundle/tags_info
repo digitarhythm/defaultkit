@@ -1,0 +1,9 @@
+AnsiEsc.vim
+auto-ctags.vim
+neobundle.vim
+neomru.vim
+nerdtree
+vim-autoclose
+vim-coffee-script
+vim-indent-guides
+vim-trailing-whitespace
